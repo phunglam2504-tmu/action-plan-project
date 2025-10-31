@@ -1,0 +1,17 @@
+Mục tiêu tổng thể: Xây dựng nền tảng kỹ năng lập trình và tự học hiệu quả trong năm đầu tiên.
+Chiến lược hành động:
+
+Cải thiện kỹ năng chuyên môn qua học và thực hành Python.
+
+Phát triển kỹ năng mềm và kỹ năng học chủ động.
+
+Ứng dụng công cụ số và AI để quản lý và hỗ trợ học tập.
+Nhiệm vụ cụ thể:
+
+Hoàn thành khóa học Python cơ bản, làm project nhỏ.
+
+Viết nhật ký học tập hằng tuần.
+
+Lưu trữ tài liệu, prompt và output trên GitHub.
+
+✅ Kết quả ứng dụng: Tôi dùng để hoàn thiện bố cục logic cho toàn bộ file action-plan.docx.

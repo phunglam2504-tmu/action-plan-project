@@ -1,0 +1,22 @@
+Tầng 1 – Mục tiêu chính: Thành thạo ngôn ngữ Python.
+Tầng 2 – Hành động chính:
+
+Học kiến thức cơ bản:
+
+Hoàn thành khóa học Python cơ bản trên Coursera.
+
+Ghi chú lại mỗi chủ đề học được bằng Notion.
+
+Luyện tập thực hành:
+
+Giải ít nhất 3 bài mỗi tuần trên LeetCode.
+
+Làm project nhỏ: “Ứng dụng quản lý danh bạ”.
+
+Tự đánh giá & cải tiến:
+
+Viết nhật ký học tập mỗi tuần.
+
+Nhờ ChatGPT hỗ trợ kiểm tra và gợi ý cách tối ưu code.
+
+✅ Kết quả ứng dụng: Tôi sử dụng phần này cho mục 4. Hành động (Action Plan) trong bản kế hoạch.

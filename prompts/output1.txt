@@ -1,0 +1,13 @@
+🎯 Mục tiêu học tập SMART:
+
+Cụ thể (S): Thành thạo ngôn ngữ lập trình Python cơ bản.
+
+Đo lường (M): Hoàn thành ít nhất 2 khóa học trực tuyến và 1 mini project.
+
+Khả thi (A): Dành 10 giờ/tuần để học và thực hành.
+
+Phù hợp (R): Gắn liền với định hướng trở thành lập trình viên phần mềm.
+
+Thời hạn (T): Hoàn thành trước khi kết thúc học kỳ 2 năm nhất.
+
+✅ Kết quả ứng dụng: Tôi dùng nội dung này để viết phần Mục tiêu học tập trong Action Plan.
